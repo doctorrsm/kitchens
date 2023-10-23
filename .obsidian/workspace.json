@@ -233,14 +233,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "32 Ф.md",
+                "file": "01.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9df7509746288619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "33 ф.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -306,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "32 Ф.md",
+                "file": "33 ф.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "32 Ф.md",
+                "file": "33 ф.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "32 Ф.md"
+                "file": "33 ф.md"
               }
             }
           }
@@ -367,24 +379,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d9345a6b0c9f9d85",
+  "active": "9df7509746288619",
   "lastOpenFiles": [
-    "32.md",
     "32 Ф.md",
+    "32.md",
     "31.md",
+    "33.md",
+    "33 ф.md",
+    "01.1.md",
+    "Без названия",
+    "11 К.md",
+    "13.md",
     "30.md",
     "26.md",
     "20150.md",
     "19.md",
     "01.md",
     "18 Су.md",
-    "Без названия",
     "Без названия.md",
     "18.md",
     "15.md",
-    "13.md",
     "11 К СУ.md",
-    "11 К.md",
     "Карго.md",
     "10 Су.md",
     "10.md",
@@ -392,9 +407,6 @@
     "09.1.md",
     "09.md",
     "06.md",
-    "04 ф.md",
-    "04.md",
-    "03.1.md",
-    "03.md"
+    "04 ф.md"
   ]
 }
